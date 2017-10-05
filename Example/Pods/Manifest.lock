@@ -1,0 +1,26 @@
+PODS:
+  - SwiftHash (2.0.1)
+  - WavatarSwift (1.0.0)
+
+DEPENDENCIES:
+  - SwiftHash (from `https://github.com/onmyway133/SwiftHash`)
+  - WavatarSwift (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftHash:
+    :git: https://github.com/onmyway133/SwiftHash
+  WavatarSwift:
+    :path: ../
+
+CHECKOUT OPTIONS:
+  SwiftHash:
+    :commit: 1387bd2a614060ff516b3aa1279354b139b3e6f1
+    :git: https://github.com/onmyway133/SwiftHash
+
+SPEC CHECKSUMS:
+  SwiftHash: 62691a0d6b09b958d21ab1ea0014b83d56f58e8f
+  WavatarSwift: cd918cd3d1ab7fa0ed85a20020e2f07c478b1466
+
+PODFILE CHECKSUM: 382b862c52369929d696721a487f3ca3873acae0
+
+COCOAPODS: 1.3.1

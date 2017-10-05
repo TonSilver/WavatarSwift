@@ -1,0 +1,6 @@
+framework module WavatarSwift {
+  umbrella header "WavatarSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

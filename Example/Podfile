@@ -1,0 +1,6 @@
+platform :ios, '8.0'
+use_frameworks!
+target 'WavatarSwift_Example' do
+  pod 'WavatarSwift', :path => '../'
+  pod 'SwiftHash', git: 'https://github.com/onmyway133/SwiftHash'
+end
