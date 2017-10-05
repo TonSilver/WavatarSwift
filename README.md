@@ -6,7 +6,7 @@
 
 ## Example
 
-![](https://github.com/serebryakov-av/WavatarSwift/screenshot.png)
+<img src="screenshot.png" width="320" align="right" />
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
